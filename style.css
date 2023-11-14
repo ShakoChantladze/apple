@@ -1,0 +1,131 @@
+.container{
+    max-width: 1024px;
+}
+body{
+    background-color: #f2f2f2;
+}
+.headerwrapper{
+    padding: 22px;
+    display: grid;
+}
+.apple-products{
+    background-color: #fbfbfd;
+    padding: 8px;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+.headerwrapper-a{
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: 400;
+    color:#1d1d1f;
+    display: grid;
+    justify-items: center;
+}
+.iPhoneSE{
+    width: 22px;
+    height: 54px;
+}
+.airtag{
+    width: 30px;
+}
+.applecard{
+    width: 36px;
+}
+.ios17{
+    width: 32px;
+}
+.discount{
+    display: flex;
+    justify-content: center;
+    font-size: 21px;
+}
+.shop{
+    text-decoration: none;
+    font-size: 21px;
+}
+.first_section_second_div{
+    background-color: #000;
+    padding: 95px;
+}
+.iphone_15{
+    width: 100%;
+}
+.new_product_div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h2{
+    font-size: 12px;
+    font-weight: 400;
+    color: #f56300;
+}
+.new_product_name{
+    margin-top: 8px;
+    font-size: 24px;
+    font-weight: 600;
+}
+.new_product_describe{
+    margin-top: 16px;
+    font-size: 48px;
+    font-weight: 600;
+}
+.new_product_price{
+    margin-top: 26px;
+    font-size: 21px;
+    font-weight: 400;
+    color: #ffffff;
+}
+.buy_button{
+    padding-top: 5px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    background-color: #0071e3;
+    color: #ffffff;
+    border-radius: 20px;
+    border: 0px;
+}
+.buy_and_learn_more{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 16px;
+}
+.first_section_third_div{
+    background-color: #ffffff;
+    padding: 95px;
+}
+.new_product_price2{
+    margin-top: 26px;
+    font-size: 21px;
+    font-weight: 400;
+    color: #000;
+}
+.first_section_fourth_div{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    background-color: #ffffff;
+}
+.iphonese_div{
+    height: 830px;
+}
+.iphone_se{
+    height: 100%;
+}
+.second_section{
+    background-color: #ffffff;
+    margin-top: 10px;
+}
+.second_section_div{
+    position: relative;
+}
+.second_section_div img{
+    width: 100%;
+    border-radius: 30px;
+}
