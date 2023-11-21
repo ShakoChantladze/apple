@@ -1,5 +1,5 @@
 .container{
-    max-width: 1024px;
+    max-width: 1440px;
 }
 body{
     background-color: #f2f2f2;
@@ -125,7 +125,216 @@ h2{
 .second_section_div{
     position: relative;
 }
+.second_section_div2{
+    position: absolute;
+    margin-top: -300px;
+    margin-left: 100px;
+}
+.second_section_div2_h2{
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 600;
+}
 .second_section_div img{
     width: 100%;
     border-radius: 30px;
+}
+.second_section_div2_h2_span{
+    font-size: 48px;
+    font-weight: 600;
+}
+.third_section{
+    background-color: #fff;
+    padding-top: 116px;
+    padding-bottom: 119px;
+    text-align: center;
+}
+.third_section_h2{
+    font-size: 48px;
+    font-weight: 600;
+    color: #1d1d1f;
+}
+.compare_table{
+    margin-top: 68px;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-row-gap: 40px;
+    grid-column-gap: 34px;
+}
+.compare_iphone_15_pro_{
+    width: 194px;
+    height: 257px;
+}
+.compare_iphone_se_pro_{
+    width: 151px;
+    height: 257px;
+}
+.circles{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-right: 5px;
+}
+.circle{
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    margin-right: 5px;
+}
+.circle1{
+    background-color: rgba(128, 128, 128, 0.573);
+}
+.circle2{
+    background-color: #0000009a;
+}
+.circle3{
+    background-color: beige;
+}
+.circle4{
+    background-color: rgba(11, 41, 11, 0.637);
+}
+.circle5{
+    background-color: pink;
+}
+.circle6{
+    background-color: rgba(56, 81, 56, 0.317);
+}
+.circle7{
+    background-color: lightgray;
+}
+.circle8{
+    background-color: rgba(108, 169, 207, 0.669);
+}
+.circle9{
+    background-color: rgba(128, 0, 128, 0.169);
+}
+.circle10{
+    background-color: rgba(235, 235, 19, 0.856);
+}
+.circle11{
+    background-color: red;
+}
+.circle12{
+    background-color: rgba(139, 0, 0, 0.797);
+}
+.icon_design_{
+    width: 55px;
+    height: 41px;
+}
+.icon_dynamic_island_{
+    width: 38px;
+    height: 38px;
+}
+.empty_div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.icon_a17_{
+    width: 38px;
+    height: 38px;
+}
+.icon_14_pro_camera_{
+    width: 36px;
+    height: 36px;
+}
+.icon_sos_{
+    width: 39px;
+    height: 39px;
+}
+.icon_battery_{
+    width: 43px;
+    height: 22px;
+}
+.icon_usbc_{
+    width: 43px;
+    height: 17px;
+}
+.icon_face_{
+    width: 38px;
+    height: 38px;
+}
+.icon_touch_id_{
+    width: 39px;
+    height: 38px;
+}
+.third_section_ul{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 42px;
+    font-size: 21px;
+    font-weight: 400;
+}
+.banner{
+    margin-top: 30px;
+    background-color: #fff;
+}
+.banner_iphone_{
+    width: 342px;
+    height: 382px;
+}
+.banneer-wrapper{
+    display: flex;
+    padding: 80px;
+}
+.fourth_section_h2{
+    color: #1d1d1f;
+    font-size: 48px;
+    font-weight: 600;
+}
+.fourth_section_div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 150px;
+}
+.fifth_section{
+    padding-top: 110px;
+}
+.fifth_section_h2{
+    font-size: 56px;
+    font-weight: 600;
+    color: #000;
+    text-align: center;
+    margin-bottom: 70px;
+}
+.title_wrapper{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    padding:0 30px;
+}
+.trade_in_3up_{
+    width: 453px;
+    height: 312px;
+    max-width: 100%;
+}
+.carrier_offers_{
+    width: 172px;
+    height: 166px;
+    margin-left: 120px;
+    margin-top: 50px;
+}
+.title_wrapper_div{
+    background-color: #fff;
+    width: 405px;
+}
+.title_wrapper_text{
+    max-width: 248px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.title_wrapper_first_div_img{
+    padding-top: 110px;
+}
+.apple_card_{
+    width: 262px;
+    height: 300px;
+    margin-left: 75px;
+    margin-top: 95px;
 }
